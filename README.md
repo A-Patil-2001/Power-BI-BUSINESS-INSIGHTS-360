@@ -15,13 +15,19 @@
 
 ## Learnt Tech stacks:
 
-- [x] Power BI Desktop
-- [x] Power BI Service
-- [x] SQL
-- [x] Excel
-- [x] DAX language
-- [x] DAX studio (for optimizing the report)
-- [x] Project charter file
+- [x] **Power BI Desktop** – end-to-end dashboard development & data modeling
+
+- [x] **Power BI Service** – publishing, sharing, collaboration & governance
+
+- [x] **SQL** – complex queries, joins, subqueries & performance optimization
+
+- [x] **Microsoft Excel** – advanced formulas, PivotTables & data analysis
+
+- [x] **DAX Language** – advanced measures, time intelligence & business KPIs
+
+- [x] **DAX Studio** – performance tuning, query optimization & model analysis
+
+- [x] **Project Charter File** – defining scope, objectives & business requirements
 
 ## Business related terms:
 

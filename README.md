@@ -55,5 +55,5 @@
 - [x] **Power BI App creation** for enterprise-level report distribution
 
 ## Live Dashboard:
-- [x] [*Link for Live Dasboard*](https://app.powerbi.com/links/KYj2NB8R98?ctid=6411f2ab-dcd4-4314-a01e-f94f6b2a6e35&pbi_source=linkShare&bookmarkGuid=c2b8cf8a-9997-4954-a000-656a2b9fb3e8)
+- [x] [*Link for Live Dashboard*](https://app.powerbi.com/links/KYj2NB8R98?ctid=6411f2ab-dcd4-4314-a01e-f94f6b2a6e35&pbi_source=linkShare&bookmarkGuid=c2b8cf8a-9997-4954-a000-656a2b9fb3e8)
 

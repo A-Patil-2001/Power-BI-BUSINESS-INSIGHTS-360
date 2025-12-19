@@ -38,18 +38,18 @@
 
 ## Learnt Power BI techniques:
 
-- [x] Creating calculated columns
-- [x] Creating measures using the DAX language
-- [x] Data modeling
-- [x] Bookmarks to switch between two visuals
-- [x] Page navigation with buttons
-- [x] Creating date table using m language
-- [x] Dynamic titles based on the applied filters
-- [x] Using KPI indicators
-- [x] Conditional formatting of the values in visuals
-- [x] Data validation techniques
-- [x] Power BI services
-- [x] Publishing reports to Power BI services
-- [x] Collaboration, workspace, access permissions in Power BI services
-- [x] Setting up the personal gateway to setup the auto-refresh of data
-- [x] Power BI App creation
+- [x] Creating **calculated columns** for data enrichment
+- [x] Creating **optimized DAX measures** for KPIs & insights
+- [x] **Data modeling** using star & snowflake schema principles
+- [x] **Bookmarks** to toggle between visuals & views
+- [x] **Page navigation** using interactive buttons
+- [x] Creating **date tables using M Language**
+- [x] **Dynamic titles** driven by slicers & filters
+- [x] Using **KPI indicators** for performance tracking
+- [x] **Conditional formatting** to highlight trends & exceptions
+- [x] Applying **data validation** techniques for accuracy & reliability
+- [x] Working with **Power BI Service** for report management
+- [x] **Publishing reports** to Power BI Service
+- [x] **Workspace collaboration**, role-based access & permissions
+- [x] Setting up **Personal Gateway** for automated data refresh
+- [x] **Power BI App creation** for enterprise-level report distribution

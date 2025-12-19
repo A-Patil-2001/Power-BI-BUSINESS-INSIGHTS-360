@@ -17,7 +17,7 @@
 
 - [x] **Power BI Desktop** – end-to-end dashboard development & data modeling
 - [x] **Power BI Service** – publishing, sharing, collaboration & governance
-- [x] **SQL** – complex queries, joins, subqueries & performance optimization
+- [x] **SQL** – writing queries to extract, filter, and prepare data for BI reporting, subqueries & performance optimization
 - [x] **Microsoft Excel** – advanced formulas, PivotTables & data analysis
 - [x] **DAX Language** – advanced measures, time intelligence & business KPIs
 - [x] **DAX Studio** – performance tuning, query optimization & model analysis
